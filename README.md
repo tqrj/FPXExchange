@@ -2,7 +2,7 @@
 ![img.png](banner.jpg) 
 ![img.png](img.png)
 ## 不出售源码只做搭建维护
-✈️：[联系我](https://t.me/weiff)
+✈️：[联系我@fpxhy](https://t.me/fpxhy)
 
 现货，永续合约，秒合约，自发币，K线真实秒级可控，，多语言任意切换，内置客服，OTC入金，质押理财，指纹解锁，实名认证，短信/邮箱验证，android，iOS，💻三端原生支持
 # 20240821
